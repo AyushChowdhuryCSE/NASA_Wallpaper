@@ -23,8 +23,8 @@ This Python automation tool fetches NASA's [Astronomy Picture of the Day (APOD)]
 1.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/nasa-wallpaper-setter.git
-    cd nasa-wallpaper-setter
+    git clone https://github.com/AyushChowdhuryCSE/NASA_Wallpaper.git
+    cd NASA_Wallpaper
     ```
 
 2.  **Install Dependencies**
